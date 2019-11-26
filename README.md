@@ -1,2 +1,2 @@
 # hello-word
-Mi primer proyecto
+Learning news way in tech world like git hub, devops, machine learning, dockers, serverless
